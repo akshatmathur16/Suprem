@@ -1,9 +1,9 @@
- 1  wsl --ststus # only for wsl systems
+#Download the entire directory strucutre from github
+1  wsl --ststus # only for wsl systems
 
     4  sudo apt update
     5  sudo apt install gcc
-    6  gcc
-    7  #cd /mnt/e/2nd\ sem/Supreme/
+    #Go to the downloaded directory structure using the below command 
     cd /home/makshat/supreme/drive-download-20240313T121545Z-001/
     8  ls
     9  cd bin
