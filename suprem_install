@@ -1,9 +1,5 @@
-sudo apt update
-sudo apt gcc install
-
  1  wsl --ststus # only for wsl systems
-    2  #gcc
-    3  #sudo apt install gcc
+
     4  sudo apt update
     5  sudo apt install gcc
     6  gcc
